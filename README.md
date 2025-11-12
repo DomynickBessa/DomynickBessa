@@ -1,6 +1,6 @@
 ## Olá!! ✨ Eu sou a Domynick Bessa ✨ 👋
 
-* Sou estudante de Ciências da Computação. Apaixonada por estudar e aprender!</li>
+* Sou estudante de Ciência da Computação. Apaixonada por estudar e aprender!</li>
 * 🚀 Minha meta no momento é um estágio na área de desenvolvimento 🚀 </li>
 
 * Assim como uma boa gamer sobrevivente em project zomboid, pretendo sobreviver nesse mundo vasto de Devs me destacando com minha habilidade única suprema que é "nunca desistir" ✨
