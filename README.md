@@ -1,31 +1,29 @@
-## Olá!! ✨ Eu sou a Domynick Bessa ✨ 👋
+<div align="center">
+  <h2>Olá!! ✨ Eu sou a Domynick Bessa ✨ 👋</h2>
+</div>
 
-* Sou estudante de Ciência da Computação. Apaixonada por estudar e aprender!</li>
-* 🚀 Minha meta no momento é um estágio na área de desenvolvimento 🚀 </li>
-
-* Assim como uma boa gamer sobrevivente em project zomboid, pretendo sobreviver nesse mundo vasto de Devs me destacando com minha habilidade única suprema que é "nunca desistir" ✨
-
-<!-- <div>
-  <a href="www.linkedin.com/in/domynick-bessa"><img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
-</div> -->
+* 🎓 Sou estudante de Ciência da Computação. Apaixonada por estudar e aprender!
+* 🚀 Minha meta no momento é um estágio na área de desenvolvimento 🚀
+* 🧟‍♀️ Assim como uma boa gamer sobrevivente em Project Zomboid, pretendo sobreviver nesse mundo vasto de Devs me destacando com minha habilidade única suprema que é "nunca desistir" ✨
 
 <br>
 
-<div>
- <a href="https://github.com/DomynickBessa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DomynickBessa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomynickBessa&layout=compact&langs_count=7&theme=transparent"/>
-</div>
-<div style=" display: inline_block"><br>
-  <img aling="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img aling="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img aling="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-  <img aling="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-  <img aling="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img aling="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img aling="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-  <img aling="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-  <img aling="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
-      
+<div align="center">
+  <a href="https://domynickbessa.github.io/portfolioPessoal/" target="_blank">
+    <img src="https://img.shields.io/badge/Acesse_meu_Portfólio_Pessoal-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
 
+<br>
+
+<div align="center" style="display: inline-block">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+</div>
